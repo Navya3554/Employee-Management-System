@@ -7,7 +7,6 @@ Manage employee records efficiently with this Employee Management System, a Pyth
 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Database Setup](#database-setup)
 - [Contributing](#contributing)
