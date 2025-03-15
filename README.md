@@ -47,7 +47,7 @@ Before you get started, ensure you have the following components installed on yo
 
 To run the Employee Management System, execute the following command:
 
-> python employee_management_system.py
+> https://github.com/Navya3554/Employee-Management-System/blob/main/employee_management.py
 
 ## Database Setup
 Before using the system, you need to set up the MySQL database and table. Follow these steps:
