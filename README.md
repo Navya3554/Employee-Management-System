@@ -41,16 +41,8 @@ Before you get started, ensure you have the following components installed on yo
   ```bash
   pip install mysql-connector-python
 
-## Getting Started
 
-### Clone the Repository:
-> git clone https://github.com/yourusername/employee-management-system.git
 
-### Navigate to the Project Directory:
-> cd employee-management-system
-### Update MySQL Connection Details:
-> con = mysql.connector.connect(host="localhost", user="root", password="your_root_password", database="employee")
-Replace "your_root_password" with your MySQL root password.
 
 ## Usage
 
